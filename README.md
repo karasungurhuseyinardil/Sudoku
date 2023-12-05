@@ -1,1 +1,1 @@
-This project contains a simple minesweeper game developed in Java.
+This project contains a simple Sudoku game developed in Java.
